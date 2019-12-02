@@ -1,0 +1,2 @@
+include ':app', ':multiple-status-view'
+rootProject.name='easybtc'
